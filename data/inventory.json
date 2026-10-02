@@ -1,0 +1,116 @@
+[
+  {
+    "id": "item_1",
+    "title": "富士胶片旁轴复古机械相机（99新收藏级）",
+    "category": "数码摄影",
+    "price": 1680,
+    "originalPrice": 3200,
+    "condition": "99新 (仅拆封试机)",
+    "stock": 1,
+    "status": "available",
+    "description": "私人收藏出清。全金属机械质感，快门声音清脆干脆，外观成色极佳无任何磕碰掉漆。原厂配件、背带、双电池与皮套齐全，箱说全。成色如图，欢迎同城面交验机或顺丰保价包邮。",
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "复古胶片",
+      "箱说全",
+      "极品成色"
+    ],
+    "location": "自提或在学校领取",
+    "createdAt": "2026-09-20T00:00:00.000Z"
+  },
+  {
+    "id": "item_2",
+    "title": "客制化铝坨坨机械键盘 75配列（润轴+消音棉）",
+    "category": "电脑外设",
+    "price": 490,
+    "originalPrice": 980,
+    "condition": "95新 (正常轻度使用)",
+    "stock": 2,
+    "status": "available",
+    "description": "阳极氧化深空灰铝合金上盖，全键热插拔，搭配厂润线性轴体，手感扎实如雨滴声。双模无线连接，Type-C编制线材与备用键帽俱在。桌面换风格低价让给有缘人。",
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "客制化",
+      "铝合金",
+      "热插拔"
+    ],
+    "location": "自提或在学校领取",
+    "createdAt": "2026-09-22T00:00:00.000Z"
+  },
+  {
+    "id": "item_3",
+    "title": "手工植树头层牛皮双肩背包 经典马鞍棕",
+    "category": "箱包服饰",
+    "price": 360,
+    "originalPrice": 850,
+    "condition": "9成新 (自然皮质养色)",
+    "stock": 1,
+    "status": "available",
+    "description": "进口意大利植鞣皮，做工扎实，五金无氧化。可轻松放下15寸笔记本电脑及多本厚重书本。包身已经养出漂亮的温润包浆，无破损无油渍，定期上貂油保养。",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "真皮复古",
+      "植鞣牛皮",
+      "大容量"
+    ],
+    "location": "自提或在学校领取",
+    "createdAt": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "id": "item_4",
+    "title": "日本原产磨砂陶瓷手冲咖啡滤杯套装 + 耐热玻璃分享壶",
+    "category": "生活美学",
+    "price": 180,
+    "originalPrice": 380,
+    "condition": "全新未拆封",
+    "stock": 3,
+    "status": "available",
+    "description": "极简哑光白陶瓷锥形滤杯，导流肋骨设计优秀，萃取风味均衡。附送50张进口原色滤纸和原装木托。多买了一套全新闲置出清，适合日常手冲爱好者。",
+    "imageUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "全新未拆",
+      "手冲咖啡",
+      "极简生活"
+    ],
+    "location": "自提或在学校领取",
+    "createdAt": "2026-09-26T00:00:00.000Z"
+  },
+  {
+    "id": "item_5",
+    "title": "实木胡桃木桌面收纳架 & 监听音箱防震减震脚垫",
+    "category": "家居好物",
+    "price": 120,
+    "originalPrice": 280,
+    "condition": "95新",
+    "stock": 1,
+    "status": "available",
+    "description": "北美黑胡桃木整木切割，木蜡油涂装，质感温润厚重。可垫高4-5寸桌面音箱，避免共振，下方可收纳声卡或小物件，桌面理线神器。",
+    "imageUrl": "https://images.unsplash.com/photo-1544816155-12df9643f363?auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "黑胡桃木",
+      "桌面美学",
+      "防震脚架"
+    ],
+    "location": "自提或在学校领取",
+    "createdAt": "2026-09-28T00:00:00.000Z"
+  },
+  {
+    "id": "item_6",
+    "title": "头戴式主动降噪蓝牙无线耳机 (石墨黑 配件齐全)",
+    "category": "数码摄影",
+    "price": 680,
+    "originalPrice": 1599,
+    "condition": "9成新 (耳罩完好)",
+    "stock": 1,
+    "status": "available",
+    "description": "音质纯净，降噪深度优秀，日常通勤与办公神物。电池健康度90%以上，单次满电可用25小时。包含原装便携收纳硬包与3.5mm音频线。",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80",
+    "tags": [
+      "主动降噪",
+      "长续航",
+      "已预订"
+    ],
+    "location": "自提或在学校领取",
+    "createdAt": "2026-09-29T00:00:00.000Z"
+  }
+]
